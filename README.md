@@ -1,4 +1,4 @@
-# detecting_fraud
+# predicting-insurance
 # Martinut Francesco 324CA  
 # Mitrofan Theodor 324CB  
 # Raris Vlad 321CC  
