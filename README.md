@@ -1,13 +1,14 @@
 # **Predicting Insurance**
 
 ## **Team Members**
-- **Martinut Francesco** (324CA)  
+- **Martinut Francesco** 
   - Contributions: Exploratory Data Analysis (EDA), data preprocessing, RMSLE function, integration of H2O AutoML, and finalization of this README.
-- **Mitrofan Theodor** (324CB)  
+- **Mitrofan Theodor** 
   - Contributions: Exploratory Data Analysis (EDA), implementation of LGBM, XGB, HGB, hyperparameter tuning with Optuna, a Python-based Neural Network, and managing version control (Git Hero).
-- **Raris Vlad** (321CC)  
+- **Raris Vlad**  
   - Contributions: Development of two additional models, evaluation of the best-performing model, and test predictions.
-
+- **Luncanu Stefan**  
+  - Contributions: Guidance and Supervision of the ML Project.
 ---
 
 ## **Project Description**
